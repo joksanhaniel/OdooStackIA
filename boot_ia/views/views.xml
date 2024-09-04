@@ -1,0 +1,13 @@
+<data>
+    <template id="website_homepage_inherit" inherit_id="website.layout">
+        <xpath expr="//header" position="before">
+            <script
+                type="text/javascript"
+                src="/boot_ia/static/src/js/scripts.js"
+                data-project-url="https://www.stack-ai.com/embed/a01d0b83-8571-4d8b-ba9d-1e43e6b0543e/ebe147ab-adb5-42f1-8da2-cfe11bde2f8a/669e993a7a058e585beed48a">
+            </script>
+        </xpath>
+    </template>
+</data>
+
+
